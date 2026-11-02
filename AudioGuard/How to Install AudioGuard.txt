@@ -1,0 +1,8 @@
+STEP 1: Open powershell and Run this command to navigate to the location of you unzipped folder:
+e.g.
+cd C:\AudioGuard-source\AudioGuard
+
+
+STEP 2: after step 1 above, run this command:
+ .\setup.bat
+
